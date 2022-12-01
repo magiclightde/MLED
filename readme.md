@@ -10,7 +10,7 @@
 
   </p>
 
-# Welcome to my project WLED! ✨
+# Welcome to my project MLED! ✨
 
 A fast and feature-rich implementation of an ESP8266/ESP32 webserver to control NeoPixel (WS2812B, WS2811, SK6812) LEDs or also SPI based chipsets like the WS2801 and APA102!
 
@@ -32,7 +32,7 @@ A fast and feature-rich implementation of an ESP8266/ESP32 webserver to control 
 - Filesystem-based config for easier backup of presets and settings  
 
 ## 💡 Supported light control interfaces
-- WLED app for [Android](https://play.google.com/store/apps/details?id=com.aircoookie.WLED) and [iOS](https://apps.apple.com/us/app/wled/id1475695033)
+- MLED app for [Android](https://play.google.com/store/apps/details?id=com.aircoookie.WLED) and [iOS](https://apps.apple.com/us/app/wled/id1475695033)
 - JSON and HTTP request APIs  
 - MQTT  
 - Blynk IoT  
